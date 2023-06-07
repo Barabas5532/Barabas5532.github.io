@@ -1,0 +1,4 @@
+baseURL = 'https://barabas.me/'
+languageCode = 'en-gb'
+title = 'My New Hugo Site'
+theme = 'ananke'
