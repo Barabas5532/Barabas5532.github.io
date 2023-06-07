@@ -1,4 +1,4 @@
-baseURL = 'https://barabas.me/'
+baseURL = 'https://www.barabas.me/'
 languageCode = 'en-gb'
 title = 'My New Hugo Site'
 theme = 'ananke'
